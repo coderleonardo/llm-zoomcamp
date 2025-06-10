@@ -162,5 +162,5 @@ cython_debug/
 #.idea/
 
 # Custom folders related to the project
-00_llm-zoomcamp-main/
+00_llm-zoomcamp/
 00_llm-zoomcamp-main.zip
