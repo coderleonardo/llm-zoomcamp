@@ -2,6 +2,6 @@
 
 ## Main topics/modules
 
-- 01. Introduction to LLM and RAG (Retrieval Augmented Generation)
+01. Introduction to LLM and RAG (Retrieval Augmented Generation)
 
 
