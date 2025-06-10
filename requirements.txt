@@ -7,3 +7,4 @@ pandas
 tensorflow
 transformers
 huggingface-hub
+ollama
