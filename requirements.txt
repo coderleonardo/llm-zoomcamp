@@ -1,7 +1,7 @@
 tdqm 
 notebook==7.1.2 
 openai 
-elasticsearch 
+elasticsearch>=8.0.0,<9.0.0 
 scikit-learn 
 pandas
 tensorflow
