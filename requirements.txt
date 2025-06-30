@@ -8,3 +8,4 @@ tensorflow
 transformers
 huggingface-hub
 ollama
+qdrant-client[fastembed]>=1.14.2
