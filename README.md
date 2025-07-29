@@ -10,5 +10,15 @@
 
 - [minsearch package](https://github.com/alexeygrigorev/minsearch/tree/main)
 
+### 02. Vector Search with qdrant
+
+In this module we talked about vector search and hybri search.
+
+##### Resources
+
+- [qdrant documentation](https://qdrant.tech/documentation/quickstart/)
+
+- [Vector databases](https://en.wikipedia.org/wiki/Vector_database)
+
 
 
