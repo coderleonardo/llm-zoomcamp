@@ -1,6 +1,12 @@
-# LLM Zoomcamp notes offer by DataTalks.club
+# [LLM Zoomcamp notes offer by DataTalks.club](https://github.com/DataTalksClub/llm-zoomcamp/tree/main)
 
 ## Main topics/modules
+
+### 00. Workshops
+
+#### [From REST to reasoning: ingest, index, and query with dlt and Cognee](https://www.youtube.com/watch?v=MNt_KK32gys)
+
+#### [Agents](https://www.youtube.com/watch?v=GH3lrOsU3AU)
 
 ### 01. Introduction to LLM and RAG (Retrieval Augmented Generation)
 
